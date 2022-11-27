@@ -1,4 +1,4 @@
-# AmazonWebscrapping
+# Amazon Web scraping
 
 Programme permettant de :
 
